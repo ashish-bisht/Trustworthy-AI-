@@ -1,4 +1,4 @@
-# Beyond the Black Box: A Human-Centric Roadmap for Trustworthy AI in Our Cars
+# TrustWorthy AI
 
 ### The Human in the Machine
 
@@ -199,3 +199,7 @@ At the heart of this system is an architecture where safety isn't an afterthough
 ### Bringing It All Together
 
 Trustworthy AI is more than a compliance requirement; it's a prerequisite for the future of mobility. It’s the bridge between what is technically possible and what is socially responsible. By embedding transparency, accountability, and safety into every stage of the development lifecycle—with explicit guardrails, kill switches, and comprehensive logging—we can build ADAS systems that are not only intelligent but also deserving of our trust. This human-centric approach is how we move forward, building cars that are safer for everyone on the road.
+
+### Refrences: 
+https://trustyai-explainability.github.io/trustyai-site/main/main.html : by Redhat 
+https://github.com/guardrails-ai/guardrails 
