@@ -1,5 +1,3 @@
-Of course. Let's first break down the principles of Trustworthy AI and then dive into how they apply to Advanced Driver-Assistance Systems (ADAS).
-
 ## What is Trustworthy AI?
 
 At its core, **Trustworthy AI** is the idea that for AI systems to be widely adopted and beneficial, they must be developed and deployed in a way that is safe, ethical, and deserving of our confidence. It's about ensuring that AI acts in a way that is aligned with human values and expectations. Several key principles form the foundation of Trustworthy AI:
